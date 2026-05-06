@@ -1,0 +1,3 @@
+This is Kanaan Barton, born and raised in Virginia of the United States. Aside from Computer Science, I am minoring in Japanese and Teaching English to Speakers of Other Languages (TESOL). 
+
+My final project idea is concrete right now, but I want to see if I can make a Japanese-English Dialogue Study App where I enter Japanese dialogues, provide English meaning/translations, labeling corresponding tones, and a quiz feature where one language is hidden and practice learning.
